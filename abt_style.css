@@ -1,0 +1,152 @@
+
+/* *{
+    border: 2px solid red;
+} */
+
+
+
+/* NAV BAR */
+body {
+    background: #A1D6E2;
+}
+
+.header {
+    background-color: #1995AD;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    font-family: Apple Chancery;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+#name {
+    margin-left: 20px;
+    justify-content: flex-start;
+}
+
+#links {
+    margin-left: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.items:hover{
+    color: white;
+    opacity: 0.75;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+}
+
+/* END OF NAV BAR */
+/* ///////////////////////////////////////////////////////////////////////////////////// */
+
+#big_div_WHOIAM {
+    border: 5px;
+}
+
+
+#div_one {
+    text-align: center;
+}
+
+.head {
+    background: #BCBABE;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.section {
+    margin-left: 16px;
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////// */
+
+.div_two {
+    display: flex;
+}
+
+#div_two_sub1 {
+    margin-left: 5%;
+    margin-right: 2.5%;
+    text-align: center;
+}
+
+#div_two_sub2 {
+    margin-left: 2.5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+#div_two_img {
+    margin-right: 2.5%;
+    /* height = 90%; */
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+  
+.column {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////// */
+
+
+/* #div_three {
+    
+} */
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////// */
+
+
+/* #div_four {
+    
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

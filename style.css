@@ -1,0 +1,77 @@
+
+/* *{
+    border: 2px solid red;
+} */
+
+
+
+/* NAV BAR */
+body {
+    background: #A1D6E2;
+}
+
+.header {
+    background-color: #1995AD;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    font-family: Apple Chancery;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+#name {
+    margin-left: 20px;
+    justify-content: flex-start;
+}
+
+#links {
+    margin-left: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.items:hover{
+    color: white;
+    opacity: 0.75;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+}
+
+/* END OF NAV BAR */
+
+.border {
+    border: 5px solid #1995AD;
+    border-radius: 30px;
+    display: flex;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+  
+.column {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+.row2 {
+    margin-top: -17.5%;
+    display: flex;
+}
+
+h1 {
+    color: #F1F1F2;
+    text-align: center;
+    margin-right: 25px;
+}
